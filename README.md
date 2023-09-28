@@ -12,3 +12,7 @@
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 </div>
+
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taegeun-park0525" width="40%">
+<br>

@@ -14,5 +14,6 @@
 </div>
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taegeun-park0525" width="40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taegeun-park0525&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=taegeun-park0525&show_icons=true">
 <br>

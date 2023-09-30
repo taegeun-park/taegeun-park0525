@@ -16,4 +16,6 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taegeun-park0525&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=taegeun-park0525&show_icons=true">
+[![teageun's GitHub stats](https://github-readme-stats.vercel.app/api?username=taegeun-park0525&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
